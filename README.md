@@ -1,0 +1,2 @@
+# testForDjango
+ test
